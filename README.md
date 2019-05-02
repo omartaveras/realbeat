@@ -1,2 +1,2 @@
-# realbeat
-Drummachine touch or press... .
+# RealBeat
+## Drummachine touch or press... .
