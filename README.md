@@ -10,4 +10,6 @@
 - PaperJs
 - NodeJs
 - Express
-- 
+- Mongo
+- Mongoose
+- Vue
