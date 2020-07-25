@@ -14,5 +14,5 @@ Original sample by RealBeat
 - Mongo
 - Mongoose
 - Vue
-- Webapck
+- Webpack
 - Babel
